@@ -44,7 +44,6 @@ public class Program {
 				System.out.println("Reservation: " + reservation);
 			}
 			
-			System.out.println("FIM DO SISTEMA");
 		}
 		
 		
